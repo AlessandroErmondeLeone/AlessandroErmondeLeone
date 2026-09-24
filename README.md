@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Alessandro Ermonde Leone</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandroermondeleone&label=Profile%20views&color=0e75b6&style=flat" alt="alessandroermondeleone" /> </p>
 
 - 🔭 I’m currently working on **some cool projects concerning F1**
 
