@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Alessandro Ermonde Leone</h1>
 
-- 🔭 I’m currently working on **some cool projects concerning F1**
+- 📍 I’m currently working on **some cool projects concerning F1 🏎️**
 
 - 📫 How to reach me **mage.leone@gmail.com**
 
